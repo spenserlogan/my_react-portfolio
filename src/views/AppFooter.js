@@ -5,14 +5,15 @@ import Link from '@material-ui/core/Link';
 import Container from '@material-ui/core/Container';
 import Typography from '../components/Typography';
 import TextField from '../components/TextField';
+import img from '../img/resume11.2020.pdf';
 
 function Copyright() {
   return (
     <React.Fragment>
       {'© '}
       <Link color="inherit" href="https://material-ui.com/">
-        Your Website
-      </Link>{' '}
+       My Resume
+      </Link>{img}
       {new Date().getFullYear()}
     </React.Fragment>
   );
