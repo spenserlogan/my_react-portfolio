@@ -7,13 +7,15 @@ import Typography from '../components/Typography';
 import TextField from '../components/TextField';
 import img from '../img/resume11.2020.pdf';
 
+const resume = img;
+
 function Copyright() {
   return (
     <React.Fragment>
-      {'© '}
-      <Link color="inherit" href="https://material-ui.com/">
+      {' '}
+      <Link color="inherit" href={resume}>
        My Resume
-      </Link>{img}
+      </Link>{' '}
       {new Date().getFullYear()}
     </React.Fragment>
   );
