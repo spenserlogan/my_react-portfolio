@@ -10,6 +10,8 @@ To install this application, fork from my repo and make a clone of it. Run npm i
 The application is hosted on Heroku, you can see it here:
 https://fierce-harbor-58068.herokuapp.com/
 
-![](img/screenshot1.png)
-![](img/screenshot2.png)
-![](img/screenshot3.png)
+![](imgs/screenshot1.png)
+
+![](imgs/screenshot2.png)
+
+![](imgs/screenshot3.png)
