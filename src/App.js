@@ -1,14 +1,14 @@
 import withRoot from './withRoot';
 // --- Post bootstrap -----
 import React from 'react';
-import ProductCategories from './Views/ProductCategories';
-import ProductHelp from './Views/ProductHelp';
-import AppFooter from './Views/AppFooter';
-import ProductHero from './Views/ProductHero';
+import ProductCategories from './views/ProductCategories';
+import ProductHelp from './views/ProductHelp';
+import AppFooter from './views/AppFooter';
+import ProductHero from './views/ProductHero';
 // import ProductValues from './views/ProductValues';
 // import ProductHowItWorks from './views/ProductHowItWorks';
-import ProductCTA from './Views/ProductCTA';
-import AppAppBar from './Views/AppAppBar';
+import ProductCTA from './views/ProductCTA';
+import AppAppBar from './views/AppAppBar';
 
 function Index() {
   return (
